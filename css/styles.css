@@ -21,6 +21,11 @@ table{
 h1{
     color:#648080;
 }
+
 h3{
     color: rgb(168, 136, 197);
+}
+a:hover{
+    background-color: rgb(223, 217, 183);
+    color: #000;
 }
